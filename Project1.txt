@@ -1,0 +1,8 @@
+Project1:
+
+Goal: Download all videos from a YouTube channel
+
+Input: Channel Link
+Output: All channel videos
+
+Fast API is backend tool, In HTML when we click submit, then to call a python function we use fast api
